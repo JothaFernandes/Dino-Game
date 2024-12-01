@@ -1,4 +1,4 @@
 # Dino-Game
-jogo dinossauro sem internet
+jogo dinossauro baseado no jogo do google
 
 Jogo desenvolvido com base no videos da @digitalinnovationone com @celso-henrique.
